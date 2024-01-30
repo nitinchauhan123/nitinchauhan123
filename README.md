@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ntinsinghportfolio.netlify.app/](https://ntinsinghportfolio.netlify.app/)
 
-- 💬 Ask me about **React js**
+
 
 - 📫 How to reach me **https://www.linkedin.com/in/nitinchauhan123/**
 
