@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://ntinsinghportfolio.netlify.app/](https://ntinsinghportfolio.netlify.app/)
+
 
 
 
